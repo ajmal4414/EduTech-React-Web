@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EduTech-React-Web/static/css/main.0cf11fd5.css",
+    "main.js": "/EduTech-React-Web/static/js/main.483702c5.js",
+    "static/js/453.b57a94af.chunk.js": "/EduTech-React-Web/static/js/453.b57a94af.chunk.js",
+    "static/media/tc.png": "/EduTech-React-Web/static/media/tc.66e132f330fd312fe176.png",
+    "static/media/meta.jpeg": "/EduTech-React-Web/static/media/meta.7e3f88a1b4640d37c922.jpeg",
+    "static/media/miya.jpg": "/EduTech-React-Web/static/media/miya.cfeb40c12ffb25457bb8.jpg",
+    "static/media/footer.png": "/EduTech-React-Web/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/sd.png": "/EduTech-React-Web/static/media/sd.0897abc962b9843e2ae7.png",
+    "static/media/dg.png": "/EduTech-React-Web/static/media/dg.9624ed4cc0ac7f4e8024.png",
+    "static/media/ai.png": "/EduTech-React-Web/static/media/ai.0b1f4f6f49e69c33509f.png",
+    "index.html": "/EduTech-React-Web/index.html",
+    "main.0cf11fd5.css.map": "/EduTech-React-Web/static/css/main.0cf11fd5.css.map",
+    "main.483702c5.js.map": "/EduTech-React-Web/static/js/main.483702c5.js.map",
+    "453.b57a94af.chunk.js.map": "/EduTech-React-Web/static/js/453.b57a94af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf11fd5.css",
+    "static/js/main.483702c5.js"
+  ]
+}
