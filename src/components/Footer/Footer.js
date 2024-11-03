@@ -15,7 +15,7 @@ function Footer(){
             <div className="footer-box">
                 <div className="logo">
                     <div className="logo-img">
-                        <img src={footer} alt="footerimg"/>
+                        <img src={footer} alt="footerImg"/>
                     </div>
                     <h2>KnowledgeNest</h2>
                 </div>

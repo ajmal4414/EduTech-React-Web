@@ -21,7 +21,7 @@ const Contact=()=>{
 
                     <div className="form-group">
                         <label htmlFor="message">Message</label>
-                        <textarea id="message" name="message" rows="5"required></textarea>
+                        <textarea id="message" name="message" rows="4" required/>
                     </div>
 
                     <button type="submit" className="submit-btn">Submit</button>

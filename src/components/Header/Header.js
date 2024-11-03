@@ -17,8 +17,8 @@ function Header(){
 
     {
         path:'/about', display: "About us"
-    }
-]
+    },
+];
     return(
         <header className="header">
             <div className="container">
